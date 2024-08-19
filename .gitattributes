@@ -1,0 +1,5 @@
+Library/PackageCache/com.unity.burst@1.8.15/.Runtime/libburst-llvm-16.dylib filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.meta.xr.sdk.avatars.sample.assets@24.1.1/SampleAssets/SampleAssets/PresetAvatars_Quest.zip filter=lfs diff=lfs merge=lfs -text
+Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+.git/objects/12/ff0ccc49171da2032f2cca64d4a54615144b48 filter=lfs diff=lfs merge=lfs -text
+Assets/Oculus/Avatar2_SampleAssets/SampleAssets/SampleAssets/PresetAvatars_Quest.zip filter=lfs diff=lfs merge=lfs -text
